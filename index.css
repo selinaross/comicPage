@@ -24,6 +24,7 @@
 .row {
     position: relative;
     margin: auto;
+    width: 910px;
 }
 
 .bubbles {
