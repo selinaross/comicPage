@@ -1,0 +1,57 @@
+#panel3 {
+    background: transparent url(panel3.jpg) no-repeat top left;
+    height: 305px;
+    width: 903px;
+}
+
+#panel5{
+    background: transparent url(panel3.jpg) no-repeat top left;
+    height: 556:
+    width: 572px;
+}
+
+#row3{
+    float: left;
+}
+
+#bubble1 {
+    position: absolute;
+    top: 12px;
+    left: ;
+    width: ;
+
+.row {
+
+
+
+.bubbles {
+    position: absolute;
+    font-family: Arial;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+#bubble2 {
+    top: 13px;
+    left: 158px;
+    width: 310px;
+}
+
+#bubble3 {
+    top: 88px;
+    left:
+    width:
+
+}
+
+.bump5 {
+    margin-left: 5px;
+}
+
+.bump10 {
+    margin-left: 10px;
+}
+
+.bump {
+    display: inline-block;
+}
