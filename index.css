@@ -6,7 +6,7 @@
 
 #panel5{
     background: transparent url(panel3.jpg) no-repeat top left;
-    height: 556:
+    height: 556px;
     width: 572px;
 }
 
@@ -16,13 +16,15 @@
 
 #bubble1 {
     position: absolute;
-    top: 12px;
-    left: ;
-    width: ;
+    top: 18px;
+    left: 49px;
+    width: auto;
+}
 
 .row {
-
-
+    position: relative;
+    margin: auto;
+}
 
 .bubbles {
     position: absolute;
@@ -39,8 +41,8 @@
 
 #bubble3 {
     top: 88px;
-    left:
-    width:
+    left: 0;
+    width: auto;
 
 }
 
