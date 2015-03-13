@@ -1,29 +1,16 @@
-.row {
+span {
+    display: inline-block;
+}
+
+.rows {
     position: relative;
     margin: auto;
     width: 910px;
 }
 
-#panel3 {
-    background: transparent url(panel3.jpg) no-repeat top left;
-    height: 305px;
-    width: 903px;
-}
-
-#panel5 {
-    background: transparent url(panel5.jpg) no-repeat top left;
-    height: 556px;
-    width: 572px;
-}
-
-#row3 {
-    float: left;
-}
-
 .bubbles {
     position: absolute;
     font-family: Sans-serif;
-    font-size: 17px;
     text-transform: uppercase;
 }
 
@@ -159,18 +146,6 @@
     right: 65px;
     width: 134px;
     font-size: 16px;
-}
-
-#row3 div {
-    float: left;
-}
-
-.bump {
-    display: inline-block;
-}
-
-.bump5 {
-    margin-left: 5px;
 }
 
 .bump10 {
