@@ -1,50 +1,172 @@
-#panel3 {
-    background: transparent url(panel3.jpg) no-repeat top left;
-    height: 305px;
-    width: 903px;
-}
-
-#panel5{
-    background: transparent url(panel3.jpg) no-repeat top left;
-    height: 556px;
-    width: 572px;
-}
-
-#row3{
-    float: left;
-}
-
-#bubble1 {
-    position: absolute;
-    top: 18px;
-    left: 49px;
-    width: auto;
-}
-
 .row {
     position: relative;
     margin: auto;
     width: 910px;
 }
 
+#panel3 {
+    background: transparent url(panel3.jpg) no-repeat top left;
+    height: 305px;
+    width: 903px;
+}
+
+#panel5 {
+    background: transparent url(panel5.jpg) no-repeat top left;
+    height: 556px;
+    width: 572px;
+}
+
+#row3 {
+    float: left;
+}
+
 .bubbles {
     position: absolute;
-    font-family: Arial;
+    font-family: Sans-serif;
     font-size: 17px;
     text-transform: uppercase;
 }
 
+#bubble1 {
+    position: absolute;
+    top: 12px;
+    left: 21px;
+    font-size: 14px;
+}
+
 #bubble2 {
-    top: 13px;
-    left: 158px;
-    width: 310px;
+    top: 15px;
+    left: 159px;
+    width: 306px;
+    font-size: 13px;
 }
 
 #bubble3 {
     top: 88px;
-    left: 0;
-    width: auto;
+    left: 260px;
+    width: 221px;
+    font-size: 15px;
+    line-height: 1;
+}
 
+#bubble4 {
+    top: 15px;
+    right: 250px;
+    width: 177px;
+    font-size: 15px;
+}
+
+#bubble5 {
+    top: 15px;
+    right: 33px;
+    width: 184px;
+    font-size: 13px;
+}
+
+#bubble6 {
+    top: 135px;
+    right: 17px;
+    width: 167px;
+    font-size: 14px;
+}
+
+#bubble7 {
+    top: 274px;
+    right: -13px;
+    width: 99px;
+    font-size: 14px;
+}
+
+#bubble8 {
+    top: 480px;
+    left: 21px;
+    width: 177px;
+    font-size: 15px;
+}
+
+#bubble9 {
+    top: 480px;
+    left: 260px;
+    width: 177px;
+    font-size: 15px;
+}
+
+#bubble10 {
+    top: 712px;
+    left: 232px;
+    width: 262px;
+    font-size: 14px;
+}
+
+#bubble11 {
+    top: 484px;
+    right: 20px;
+    width: 195px;
+    font-size: 14px;
+}
+
+#bubble12 {
+    top: 782px;
+    left: 14px;
+    width: 192px;
+    font-size: 13px;
+}
+
+#bubble13 {
+    bottom: 28px;
+    left: 10px;
+    width: 181px;
+    font-size: 14px;
+}
+
+#bubble14 {
+    bottom: 28px;
+    left: 218px;
+    width: 117px;
+    font-size: 14px;
+}
+
+#bubble15 {
+    bottom: 521px;
+    left: 374px;
+    width: 211px;
+    font-size: 14px;
+}
+
+#bubble16 {
+    bottom: 518px;
+    right: -5px;
+    width: 180px;
+    font-size: 14px;
+}
+
+#bubble17 {
+    bottom: 132px;
+    right: 384px;
+    width: 137px;
+    font-size: 14px;
+}
+
+#bubble18 {
+    bottom: 60px;
+    right: 380px;
+    width: 134px;
+    font-size: 14px;
+}
+
+#bubble19 {
+    bottom: 38px;
+    right: 65px;
+    width: 134px;
+    font-size: 16px;
+}
+
+#row3 div {
+    float: left;
+}
+
+.bump {
+    display: inline-block;
 }
 
 .bump5 {
@@ -55,6 +177,4 @@
     margin-left: 10px;
 }
 
-.bump {
-    display: inline-block;
-}
+
