@@ -15,7 +15,6 @@ span {
 }
 
 #bubble1 {
-    position: absolute;
     top: 12px;
     left: 21px;
     font-size: 14px;
@@ -24,7 +23,7 @@ span {
 #bubble2 {
     top: 15px;
     left: 159px;
-    width: 306px;
+    width: 287px;
     font-size: 13px;
 }
 
@@ -45,30 +44,30 @@ span {
 
 #bubble5 {
     top: 15px;
-    right: 33px;
-    width: 184px;
+    right: 42px;
+    width: 177px;
     font-size: 13px;
 }
 
 #bubble6 {
     top: 135px;
-    right: 17px;
+    right: 22px;
     width: 167px;
     font-size: 14px;
 }
 
 #bubble7 {
     top: 274px;
-    right: -13px;
+    right: -15px;
     width: 99px;
     font-size: 14px;
 }
 
 #bubble8 {
-    top: 480px;
-    left: 21px;
+    top: 479px;
+    left: 20px;
     width: 177px;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 #bubble9 {
@@ -136,14 +135,14 @@ span {
 
 #bubble18 {
     bottom: 60px;
-    right: 380px;
+    right: 388px;
     width: 134px;
     font-size: 14px;
 }
 
 #bubble19 {
-    bottom: 38px;
-    right: 65px;
+    bottom: 35px;
+    right: 67px;
     width: 134px;
     font-size: 16px;
 }
@@ -151,5 +150,21 @@ span {
 .bump10 {
     margin-left: 10px;
 }
+
+.extreme-emphasis {
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.narration {
+    font-style: italic;
+}
+
+.character-name {
+    font-style: italic;
+    font-weight: bold;
+}
+
 
 
